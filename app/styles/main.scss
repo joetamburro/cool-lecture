@@ -29,3 +29,25 @@ body {
     color: #000;
     padding: 0.2em 0;
 }
+
+// my styles
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid red;
+}
+
+.post {
+    width: 33%;
+    height: 400px;
+    border: 1px solid green;
+}
+
+.new-post-button {
+    width: 80px;
+    height: 35px;
+    color: white;
+    background: green;
+    border-radius: 4px;
+}
